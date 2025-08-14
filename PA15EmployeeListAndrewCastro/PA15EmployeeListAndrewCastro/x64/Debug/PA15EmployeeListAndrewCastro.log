@@ -1,0 +1,5 @@
+﻿  PA15EmployeeListAndrewCastro.cpp
+E:\CISC192Assignments\PA15EmployeeListAndrewCastro\PA15EmployeeListAndrewCastro\PA15EmployeeListAndrewCastro.cpp(42,17): warning C4101: 'ssn': unreferenced local variable
+E:\CISC192Assignments\PA15EmployeeListAndrewCastro\PA15EmployeeListAndrewCastro\PA15EmployeeListAndrewCastro.cpp(39,17): warning C4101: 'id': unreferenced local variable
+E:\CISC192Assignments\PA15EmployeeListAndrewCastro\PA15EmployeeListAndrewCastro\PA15EmployeeListAndrewCastro.cpp(43,20): warning C4101: 'hourlyWage': unreferenced local variable
+  PA15EmployeeListAndrewCastro.vcxproj -> E:\CISC192Assignments\PA15EmployeeListAndrewCastro\PA15EmployeeListAndrewCastro\x64\Debug\PA15EmployeeListAndrewCastro.exe
